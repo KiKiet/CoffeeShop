@@ -2,7 +2,7 @@
 @inject NavigationManager navigationManager
 @inject CustomStateProvider authStateProvider
 <h3>Login</h3>
-<EditForm OnValidSubmit="OnSubmit" Model="loginRequest">
+<EditForm class="form-signin" OnValidSubmit="OnSubmit" Model="loginRequest">
     <DataAnnotationsValidator />
     <div class="form-group">
     <label for="inputUsername">Username</label>

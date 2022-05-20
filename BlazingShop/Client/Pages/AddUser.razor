@@ -1,7 +1,7 @@
-@page "/register"
+@page "/admin/adduser"
 @inject NavigationManager navigationManager
 @inject CustomStateProvider authStateProvider
-<h3>Register</h3>
+<h3>Adduser</h3>
 <EditForm class="form-signin" OnValidSubmit="OnSubmit" Model="registerRequest">
     <DataAnnotationsValidator />
     <div class="form-group">
@@ -20,8 +20,8 @@
     <ValidationMessage For="@(() => registerRequest.PasswordConfirm)" />
     </div><div class="form-group">
     <label for="inputRole">Role</label>
-    <InputText id="inputRole" class="form-control" placeholder="Role" @bind-Value="@registerRequest.Role"/>
-    <ValidationMessage For="@(() => @registerRequest.Role)" />
+    <InputText id="inputRole" class="form-control" placeholder="Role" @bind-Value="@registerRequest.Role" />
+    <ValidationMessage For="@(() => registerRequest.Role)" />
     </div>
     <button class="btn btn-lg btn-primary btn-block" type="submit">Create account</button>
     <label class="text-danger">@error</label>
@@ -34,6 +34,7 @@
 
     RegisterRequest registerRequest { get; set; } = new RegisterRequest();
     string error { get; set; }
+
     async Task OnSubmit()
     {
         error = null;

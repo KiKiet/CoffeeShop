@@ -695,3 +695,5 @@ C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Deb
 C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Debug\net5.0\Razor\Pages\Register.razor.g.cs
 C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Debug\net5.0\RazorDeclaration\Pages\AdminPages\Admin.razor.g.cs
 C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Debug\net5.0\Razor\Pages\AdminPages\Admin.razor.g.cs
+C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Debug\net5.0\RazorDeclaration\Pages\AddUser.razor.g.cs
+C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Debug\net5.0\Razor\Pages\AddUser.razor.g.cs

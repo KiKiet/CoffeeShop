@@ -41,6 +41,39 @@
         }
       },
       {
+        "HashCode": 1071745377,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Client.Pages.AdminPages.Admin",
+        "AssemblyName": "BlazingShop.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Admin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingShop.Client.Pages.AdminPages.Admin"
+        }
+      },
+      {
+        "HashCode": 515571727,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Client.Pages.AdminPages.Admin",
+        "AssemblyName": "BlazingShop.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingShop.Client.Pages.AdminPages.Admin"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingShop.Client.Pages.AdminPages.Admin",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1248669721,
         "Kind": "Components.Component",
         "Name": "BlazingShop.Client.Pages.Counter",
@@ -193,39 +226,6 @@
         }
       },
       {
-        "HashCode": 1716913350,
-        "Kind": "Components.Component",
-        "Name": "BlazingShop.Client.Pages.Signin",
-        "AssemblyName": "BlazingShop.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Signin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingShop.Client.Pages.Signin"
-        }
-      },
-      {
-        "HashCode": -1757998586,
-        "Kind": "Components.Component",
-        "Name": "BlazingShop.Client.Pages.Signin",
-        "AssemblyName": "BlazingShop.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazingShop.Client.Pages.Signin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingShop.Client.Pages.Signin",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1337537800,
         "Kind": "Components.Component",
         "Name": "BlazingShop.Client.Pages.Cart",
@@ -308,6 +308,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazingShop.Client.Pages.ProductDetails",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -458751161,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Client.Pages.Register",
+        "AssemblyName": "BlazingShop.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Register"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingShop.Client.Pages.Register"
+        }
+      },
+      {
+        "HashCode": -251629749,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Client.Pages.Register",
+        "AssemblyName": "BlazingShop.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingShop.Client.Pages.Register"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingShop.Client.Pages.Register",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 858915861,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Client.Pages.AddUser",
+        "AssemblyName": "BlazingShop.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddUser"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingShop.Client.Pages.AddUser"
+        }
+      },
+      {
+        "HashCode": -1920045539,
+        "Kind": "Components.Component",
+        "Name": "BlazingShop.Client.Pages.AddUser",
+        "AssemblyName": "BlazingShop.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingShop.Client.Pages.AddUser"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingShop.Client.Pages.AddUser",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15456,6 +15522,11 @@
   "RootNamespace": "BlazingShop.Client",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\king\\Downloads\\Compressed\\BlazingShop-master\\BlazingShop\\Client\\Pages\\Register.razor",
+      "TargetPath": "Pages\\Register.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\king\\Downloads\\Compressed\\BlazingShop-master\\BlazingShop\\Client\\Shared\\TopMenu.razor",
       "TargetPath": "Shared\\TopMenu.razor",
       "FileKind": "component"
@@ -15468,6 +15539,11 @@
     {
       "FilePath": "c:\\Users\\king\\Downloads\\Compressed\\BlazingShop-master\\BlazingShop\\Client\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\king\\Downloads\\Compressed\\BlazingShop-master\\BlazingShop\\Client\\Pages\\AdminPages\\Admin.razor",
+      "TargetPath": "Pages\\AdminPages\\Admin.razor",
       "FileKind": "component"
     },
     {
@@ -15521,8 +15597,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\king\\Downloads\\Compressed\\BlazingShop-master\\BlazingShop\\Client\\Pages\\Signin.razor",
-      "TargetPath": "Pages\\Signin.razor",
+      "FilePath": "c:\\Users\\king\\Downloads\\Compressed\\BlazingShop-master\\BlazingShop\\Client\\Pages\\AddUser.razor",
+      "TargetPath": "Pages\\AddUser.razor",
       "FileKind": "component"
     }
   ],

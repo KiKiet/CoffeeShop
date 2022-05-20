@@ -211,14 +211,14 @@
       "netstandard.dll": "sha256-Ttq9E+RchoLMvC6pS8ktXuaz1r51vG7wSm1emPBPRrk=",
       "System.Private.CoreLib.dll": "sha256-7y7hjQvy9SAXBmGIcqlrFwPQioCDSax5WwjUDJYfRAk=",
       "BlazingShop.Shared.dll": "sha256-EN84KeKynfEkEsT9YuuIdLnkg\/wSLdb6I67yq+4ZLV4=",
-      "BlazingShop.Client.dll": "sha256-qj1bCThtQbfQFudNsmi2OD1U5f7k4jilHMw0Pm5GHd0="
+      "BlazingShop.Client.dll": "sha256-wo7bg8OzL3fLJI4SGJqSqdpgH9GAWW76R73C6M04LuU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BlazingShop.Shared.pdb": "sha256-m1z4yK\/6M2fxKecfc85V\/UVf82tqCTpyNh1w9a4jW4M=",
-      "BlazingShop.Client.pdb": "sha256-kgBWjTZ5oXrON5mEzjuRFwtvUGzxyKgeJc2kn2gM4aA="
+      "BlazingShop.Client.pdb": "sha256-J+L3AT36JdTUlQ1lBeeO+Fc2m8CVtVVWFkIOWdY+lCI="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-jWuZI+z9wt0OfCMj+W5wh3HN+Ye6efC6YfCUWbBHBa8=",

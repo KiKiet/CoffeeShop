@@ -159,8 +159,8 @@ using Blazored.Typeahead;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/register")]
-    public partial class Register : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/admin/adduser")]
+    public partial class AddUser : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -168,11 +168,12 @@ using Blazored.Typeahead;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\Pages\Register.razor"
+#line 33 "C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\Pages\AddUser.razor"
            
 
     RegisterRequest registerRequest { get; set; } = new RegisterRequest();
     string error { get; set; }
+
     async Task OnSubmit()
     {
         error = null;
