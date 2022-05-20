@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazored.Toast" Path="C:\Users\king\.nuget\packages\blazored.toast\3.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazored.Typeahead" Path="C:\Users\king\.nuget\packages\blazored.typeahead\4.6.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/" Path="C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\king\Downloads\Compressed\BlazingShop-master\BlazingShop\Client\wwwroot\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\king\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.1\staticwebassets\V4\" />
+</StaticWebAssets>
